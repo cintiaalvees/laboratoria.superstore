@@ -102,7 +102,7 @@ A presença em múltiplos mercados amplifica o prejuízo sem que haja repasse de
 
 ## 📄 Documentação
 
-A apresentação completa com contexto, análises e recomendações está disponível em [`docs/ficha_tecnica_superstore.pdf](docs/ficha_tecnica_superstore.pdf).
+A apresentação completa com contexto, análises e recomendações está disponível em [Ficha Técnica SuperStore](docs/ficha_tecnica_superstore.pdf).
 
 ---
 
