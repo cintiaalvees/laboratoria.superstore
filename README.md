@@ -35,7 +35,7 @@ superstore-analise/
 ## 🔗 Dashboard interativo
 
 👉 [Acesse o painel no Looker Studio](https://datastudio.google.com/reporting/dd9030df-ac89-4d80-b6d8-6c14558fd375)
-📄 [Versão PDF estática](docs/Dashboard_SuperStore.pdf)
+📄 [Versão PDF estática](docs/dashboard_superstore.pdf)
 
 ---
 
