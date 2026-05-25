@@ -102,7 +102,7 @@ A presença em múltiplos mercados amplifica o prejuízo sem que haja repasse de
 
 ## 📄 Documentação
 
-A apresentação completa com contexto, análises e recomendações está disponível em [`docs/Apresentacao_CintiaAlves_RotaA_Projeto2.pdf`](docs/Apresentacao_CintiaAlves_RotaA_Projeto2.pdf).
+A apresentação completa com contexto, análises e recomendações está disponível em [`docs/ficha_tecnica_superstore.pdf](docs/ficha_tecnica_superstore.pdf).
 
 ---
 
